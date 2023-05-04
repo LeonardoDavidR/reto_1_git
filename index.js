@@ -1,5 +1,5 @@
-const suma = (x,y) =>{
-    resultado = x+y;
+const suma = (x,y,z) =>{
+    resultado = x+y+z;
     // console.log(resultado);
     return restultado;
 };
