@@ -1,8 +1,4 @@
-const suma = (x,y) =>{
-    resultado = x+y;
-    // console.log(resultado);
-    return restultado;
-};
+
 
 const resta = (x,y) => {
     resultado = x-y;
